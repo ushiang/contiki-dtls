@@ -1,0 +1,2 @@
+This DTLS implementation for Contiki OS supports TLS\_PSK\_WITH\_AES\_128\_CCM\_8 cipher suite (described in draft-mcgrew-tls-aes-ccm-04) only.
+Implementation was tested on the minimal-net and AVR-Raven platforms.
